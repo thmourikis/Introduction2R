@@ -1,0 +1,17 @@
+## R
+https://cran.r-project.org/bin/windows/base/)
+
+## R for windows
+https://cran.r-project.org/bin/windows/base/
+
+## R for MAC
+https://cran.r-project.org/bin/macosx/
+
+## Rstudio
+https://www.rstudio.com/products/rstudio/download/
+
+## Bioconductor
+https://bioconductor.org
+
+## dplyr tutorial
+https://genomicsclass.github.io/book/pages/dplyr_tutorial.html

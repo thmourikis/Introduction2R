@@ -1,0 +1,7 @@
+name	wind	pressure	date
+Roxanne	25	1005	1995-10-8
+Luis	115	944	1995-9-5
+Floyd	95	962	1999-9-11
+Hugo	70	984	1989-9-14
+Paloma	110	951	2008-11-8
+Dorian	25	1008	2013-7-23
